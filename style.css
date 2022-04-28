@@ -1,0 +1,37 @@
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.image-left {
+    width: auto;
+    height: 400px;
+}
+.profile-image img {
+    margin-top: 100px;
+    height: 200px;
+    width: 200px;
+
+}
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.container-left{
+    display: flex;
+    flex-direction: column;
+
+}
+.skills-content {
+    display: flex;
+    flex-direction: row;
+}
+.container-resume{
+    display: flex;
+    flex-direction: column;
+}
+.resume-content{
+    display: flex;
+    flex-direction: row;
+}
